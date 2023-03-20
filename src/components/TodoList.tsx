@@ -10,7 +10,6 @@ interface TodoListProps {
 }
 
 export default function TodoList({ eventKey, todoList, children }: TodoListProps) {
-
   return (
     <Accordion.Item className="mb-3 rounded" eventKey={eventKey}>
       <Accordion.Header>

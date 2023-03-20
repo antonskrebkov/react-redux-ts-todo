@@ -16,7 +16,6 @@ export default function TodoPage() {
   const [date, setDate] = useState<string>('-')
   const [image, setImage] = useState<string>('')
 
-
   const goBack = () => navigate(-1)
 
   function setPriority(priorityCode: number): {name: string, color: string} {

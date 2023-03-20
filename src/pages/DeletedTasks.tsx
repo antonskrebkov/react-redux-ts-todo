@@ -24,7 +24,6 @@ export default function DeletedTasks() {
     }
   }
 
-
   return (
     <div className="mt-4">
       <Button variant="danger" onClick={cleanDeleted}>Clean all</Button>

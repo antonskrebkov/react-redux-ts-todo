@@ -1,6 +1,5 @@
-import React, { useState } from 'react'
+import { useState } from 'react'
 import { Form, Button, Container } from 'react-bootstrap'
-// import { AuthContext, AuthContextType } from '../context/AuthContext';
 import '../assets/App.css';
 import IAuth from '../interfaces/IAuth';
 import { useAppDispatch, useAppSelector } from '../store/hooks';
