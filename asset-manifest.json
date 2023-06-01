@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/react-redux-ts-converter/static/css/main.94a73d38.css",
+    "main.js": "/react-redux-ts-converter/static/js/main.ce2a1e22.js",
+    "static/media/productivity.png": "/react-redux-ts-converter/static/media/productivity.e3f357888d689ec07971.png",
+    "static/media/work.png": "/react-redux-ts-converter/static/media/work.aebf922160176df398ea.png",
+    "static/media/assignment.png": "/react-redux-ts-converter/static/media/assignment.71a94ed460ffd90c91b4.png",
+    "index.html": "/react-redux-ts-converter/index.html",
+    "static/media/trash.svg": "/react-redux-ts-converter/static/media/trash.a18a428fae2fdc5d4a7fc94bdf505d60.svg",
+    "main.94a73d38.css.map": "/react-redux-ts-converter/static/css/main.94a73d38.css.map",
+    "main.ce2a1e22.js.map": "/react-redux-ts-converter/static/js/main.ce2a1e22.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94a73d38.css",
+    "static/js/main.ce2a1e22.js"
+  ]
+}
